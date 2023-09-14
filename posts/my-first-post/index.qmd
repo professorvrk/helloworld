@@ -1,0 +1,11 @@
+---
+title: "My First Post"
+author: "V. Raj Kumar"
+date: "2023-09-14"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+This is my first post with VS Code.
