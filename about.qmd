@@ -1,22 +1,42 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Dr. V. Raj Kumar"
 about:
+  id: hero-heading
+  image: profile.jpg
   template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/fourfingers
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/professorvrk
 
 ---
 
-About this blog
-This blog is create to test Quarto features
+:::{#hero-heading}
 
-Hello World! V. Raj Kumar here.
+Dr. V. Raj Kumar is an Assistant Professor in the area of Marketing Management at the Indian Institute of Management Jammu. Earlier he has worked with Vellore Institute of Technology and Anna University. He has done his Ph.D. and MBA from College of Engineering Guindy, Anna University, Chennai and B.Sc. (Visual Communication) from The New College, Chennai.
+
+His research interest is in the area of Marketing and Data Sciences. In marketing, his topics of interest include Consumer-Brand Engagement (CBE) in Social Media, Anthropomorphism of brands, and Social media use for news and perception of social reality. Similarly, in Data Science, his topics of interest are Social Network Analysis, Text Mining, and Multi-Criteria Decision-Making.
+
+## Education
+
+Anna University, Chennai | Chennai, India
+PhD in Management Sciences | 2019
+
+Anna University, Chennai | Chennai, India
+MBA Marketing & Systems | 2010
+
+The New College, Chennai | Chennai, India
+B.Sc. in Visual Communication | 2008
+
+## Experience
+
+Assistant Professor, Marketing | Indian Institute of Management Jammu | 2021 - present
+
+Assistant Professor, Marketing, VIT Business School | Vellore Institute of Technology | 2019 - 2021
+
+Teaching Fellow, Department of Management Studies, CEG | Anna University | 2010 - 2014
+
+:::

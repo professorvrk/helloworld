@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "helloworld",
+    "title": "Prof. VRK’s Blog",
     "section": "",
-    "text": "Hello World! This is my test blog\n\n\n\n\n\n\n\n\n  \n\n\n\n\nMy First Post\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2023\n\n\nV. Raj Kumar\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 11, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World! This is my test blog\n\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 14, 2023\n\n\nMy First Post\n\n\nV. Raj Kumar\n\n\n\n\nSep 14, 2023\n\n\nPost With Code\n\n\nHarlow Malloc\n\n\n\n\nSep 11, 2023\n\n\nWelcome To My Blog\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Dr. V. Raj Kumar",
     "section": "",
-    "text": "About this blog This blog is create to test Quarto features\nHello World! V. Raj Kumar here."
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nDr. V. Raj Kumar is an Assistant Professor in the area of Marketing Management at the Indian Institute of Management Jammu. Earlier he has worked with Vellore Institute of Technology and Anna University. He has done his Ph.D. and MBA from College of Engineering Guindy, Anna University, Chennai and B.Sc. (Visual Communication) from The New College, Chennai.\nHis research interest is in the area of Marketing and Data Sciences. In marketing, his topics of interest include Consumer-Brand Engagement (CBE) in Social Media, Anthropomorphism of brands, and Social media use for news and perception of social reality. Similarly, in Data Science, his topics of interest are Social Network Analysis, Text Mining, and Multi-Criteria Decision-Making.\n\n\nAnna University, Chennai | Chennai, India PhD in Management Sciences | 2019\nAnna University, Chennai | Chennai, India MBA Marketing & Systems | 2010\nThe New College, Chennai | Chennai, India B.Sc. in Visual Communication | 2008\n\n\n\nAssistant Professor, Marketing | Indian Institute of Management Jammu | 2021 - present\nAssistant Professor, Marketing, VIT Business School | Vellore Institute of Technology | 2019 - 2021\nTeaching Fellow, Department of Management Studies, CEG | Anna University | 2010 - 2014"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -33,5 +33,19 @@
     "title": "My First Post",
     "section": "",
     "text": "This is a post with executable code.\nThis is my first post with VS Code.\nTo test - update one - update two"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Dr. V. Raj Kumar",
+    "section": "",
+    "text": "Anna University, Chennai | Chennai, India PhD in Management Sciences | 2019\nAnna University, Chennai | Chennai, India MBA Marketing & Systems | 2010\nThe New College, Chennai | Chennai, India B.Sc. in Visual Communication | 2008"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Dr. V. Raj Kumar",
+    "section": "",
+    "text": "Assistant Professor, Marketing | Indian Institute of Management Jammu | 2021 - present\nAssistant Professor, Marketing, VIT Business School | Vellore Institute of Technology | 2019 - 2021\nTeaching Fellow, Department of Management Studies, CEG | Anna University | 2010 - 2014"
   }
 ]
